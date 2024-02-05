@@ -187,7 +187,7 @@ public class GameActivity extends AppCompatActivity {
             if (ControlNum % 2 == 0) {
                 GameText.setText("Player2's turn!");
             } else {
-                GameText.setText("Player1' turn!");
+                GameText.setText("Player1's turn!");
             }
             ControlNum += 1;
         }
