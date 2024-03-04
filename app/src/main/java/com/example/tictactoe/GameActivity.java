@@ -20,7 +20,7 @@ public class GameActivity extends AppCompatActivity {
     Button GameButton7;
     Button GameButton8;
     Button GameButton9;
-    int [][] GameBoard = {{0,1,2},{3,4,5},{6,7,8}};
+    int [][] GameBoard = {{2,3,4},{5,6,7},{8,9,10}};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
